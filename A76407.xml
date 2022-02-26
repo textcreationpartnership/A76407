@@ -1,0 +1,1024 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England in its condition, briefly and most lively characterized, by way of essay VVhereunto are annexed some acrosticke verses, vpon the names of severall members of the honourable House of Commons, and others, (viz.) Sir Tho. Fairfax. ...Iohn Wastell, Esquire. By Iohn Benson, Gent.</title>
+            <author>Benson, John, gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76407</idno>
+            <idno type="STC">Wing B1904A</idno>
+            <idno type="STC">ESTC R232486</idno>
+            <idno type="EEBO-CITATION">99898006</idno>
+            <idno type="PROQUEST">99898006</idno>
+            <idno type="VID">171004</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76407)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171004)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2546:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England in its condition, briefly and most lively characterized, by way of essay VVhereunto are annexed some acrosticke verses, vpon the names of severall members of the honourable House of Commons, and others, (viz.) Sir Tho. Fairfax. ...Iohn Wastell, Esquire. By Iohn Benson, Gent.</title>
+                  <author>Benson, John, gent.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the yeare 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>To the reader signed: I. B. i.e. John Benson.</note>
+                  <note>In verse.</note>
+                  <note>With a list of 25 names in three columns on the title page.</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political poetry, English --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  Poetry --  1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Claire Tolan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Claire Tolan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171004:1"/>
+            <pb facs="tcp:171004:1" rendition="simple:additions"/>
+            <p> 
+               <hi>ENGLAND IN ITS CONDITION, BRIEFLY And moſt lively Characterized, by way of Eſſay.</hi>
+            </p>
+            <p>
+               <hi>VVhereunto are annexed ſome Acroſticke Verſes, Vpon the Names of ſeverall Members of the Honourable Houſe of Commons, and others,</hi> (viz.)</p>
+            <list>
+               <item>
+                  <hi>Sir</hi> Tho. Fairfax.</item>
+               <item>
+                  <hi>Lieut. Generall</hi> Cromwell.</item>
+               <item>
+                  <hi>Major Generall</hi> Skippon.</item>
+               <item>William Lenthall, <hi>Eſquire.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> Benjamin Ruddiard.</item>
+               <item>
+                  <hi>Sir</hi> Iohn Francklyn.</item>
+               <item>
+                  <hi>Sir</hi> Thomas Dacres.</item>
+               <item>
+                  <hi>Sir</hi> Iohn Trever.</item>
+               <item>
+                  <hi>Sir</hi> Robert Pye.</item>
+               <item>
+                  <hi>Sir</hi> Roger North.</item>
+               <item>
+                  <hi>Sir</hi> Francis Pile.</item>
+               <item>
+                  <hi>Coll.</hi> Henry Martin.</item>
+               <item>
+                  <hi>Capt.</hi> Thomas Wogan</item>
+               <item>
+                  <hi>Sir</hi> Walter Earle.</item>
+               <item>Tho. Earle, <hi>Eſquire.</hi>
+               </item>
+               <item>
+                  <hi>Coll.</hi> Will. Purefoy.</item>
+               <item>Michael Oldſworth.</item>
+               <item>Tanfield Vachell.</item>
+               <item>
+                  <hi>Sir</hi> Iohn Gell.</item>
+               <item>
+                  <hi>Sir</hi> George Greſley.</item>
+               <item>
+                  <hi>Sir</hi> Iohn Davers.</item>
+               <item>
+                  <hi>Mr.</hi> Ephraim.</item>
+               <item>George Manley, <hi>Eſq.</hi>
+               </item>
+               <item>
+                  <hi>Capt.</hi> Richard Owen.</item>
+               <item>Iohn Waſtell, <hi>Eſquire.</hi>
+               </item>
+            </list>
+            <p>By <hi>IOHN BENSON,</hi> Gent.</p>
+            <p>Omne tulit punctum qui miſcuit utile dulci.</p>
+            <p>
+               <hi>Printed in the Yeare</hi> 1648.</p>
+            <pb facs="tcp:171004:2" rendition="simple:additions"/>
+            <pb facs="tcp:171004:2" rendition="simple:additions"/>
+            <pb facs="tcp:171004:3"/>
+            <pb facs="tcp:171004:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:171004:4"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:171004:4"/>
+            <head>To the courteous Reader.</head>
+            <lg>
+               <l>LOoke not for ſmooth lines from a Souldiers quill,</l>
+               <l>Who in the art of Retorique hath ſmall skill:</l>
+               <l>In ſtead of pure phraſe, hee did uſe to heare</l>
+               <l>The Drums and Trumpets ſounding in his eare.</l>
+               <l>Accept this little Poem as it is;</l>
+               <l>Your ſmiles can only Crown its Fate with bliſse.</l>
+            </lg>
+            <closer>
+               <signed>Devoted truly to ſerve you, I. B.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:171004:5"/>
+            <head>The Authors Prayer for the Parliament.</head>
+            <lg>
+               <l>PReſerve good Lord this happy Parliament,</l>
+               <l>Deſtroy all thoſe which any wayes invent</l>
+               <l>Miſchief againſt them; Oh let them flouriſh,</l>
+               <l>And with thy paps of juſtice do them nouriſh.</l>
+               <l>Let no diſſenſions ſpring in that juſt Court,</l>
+               <l>Where ſo wiſe, gallant, godly men reſort.</l>
+               <l>Oh grant them wiſdome, that they may foreſee</l>
+               <l>Thoſe which delight ſo in our miſerie.</l>
+               <l>Bleſſe their indeavours, let them never ceaſe,</l>
+               <l>Till they have made an everlaſting peace</l>
+               <l>For King and Kingdome, Church and publick State,</l>
+               <l>Againſt all thoſe which Reformation hate,</l>
+               <l>That Gods true ſacred word may be ſhown forth,</l>
+               <l>And we of his pure truth may know the worth;</l>
+               <l>And let them periſh that ſhall go about</l>
+               <l>To raiſe new warre, grant you may find them out;</l>
+               <l>Let all their plots and miſchiefs be prevented,</l>
+               <l>Let all their evill wayes be circumvented.</l>
+               <l>So pray ſhall he whilſt breath is in his breaſt,</l>
+               <l>Your true devoted ſervant e're ſhall reſt.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:171004:5"/>
+            <head>An Eſſay, or ſhort Poeme upon the Times.</head>
+            <q>
+               <l>The Authour briefly here doth ſhow,</l>
+               <l>From whence our miſeries do flow.</l>
+            </q>
+            <lg>
+               <l>WHen great Jehovah with out-ſtretched hand</l>
+               <l>Did powr his mercies on this ſinfull land;</l>
+               <l>When Peace and plenty increaſt more and more,</l>
+               <l>And heavenly bleſſings did fill full our ſtore;</l>
+               <l>Inſtead of rendring thanks for our great good,</l>
+               <l>Our ſinnes abounded more then ſwifteſt flood.</l>
+               <l>Fullneſſe of bread begot in us great pride,</l>
+               <l>And from Religions truth we gan to ſlide;</l>
+               <l>Nothing but envy did our hearts poſſeſſe,</l>
+               <l>Our ſinfull ſoules in goodneſſe ſtill grew leſſe.</l>
+               <l>Sects and diviſions did amongſt us grow,</l>
+               <l>In works of goodnes we grew dull and ſlow.</l>
+               <l>In Seates of Juſtice ſate corrupted Judges;</l>
+               <l>Inſtead of Peace, amongſt us private grudges.</l>
+               <l>Nothing but cruell men tyranniſing,</l>
+               <l>Inſtead of Juſtice, Monopoliſing.</l>
+               <l>Our Lordly Prelates, that moſt wicked ſtock,</l>
+               <l>Falſe doctrine preached to their harmles flock;</l>
+               <l>Inſtead of Chriſts true Goſpell, they thruſt in</l>
+               <l>Romes traditions, that ſame man of Sinne.</l>
+               <pb n="2" facs="tcp:171004:6"/>
+               <l> Nothing but pride poſſeſt their ſinfull mindes,</l>
+               <l>More cruell then the Tigers in their kinds.</l>
+               <l>
+                  <hi>England</hi> was bleſſed with a happy ſate,</l>
+               <l>VVhen Biſhops ſcorn'd their faith to violate.</l>
+               <l>The Judges they who ſhould juſt Fathers be</l>
+               <l>In doing juſtice, were fill'd with bribery,</l>
+               <l>They viper-like fed on their mothers heart,</l>
+               <l>Making her deareſt children for to ſmart.</l>
+               <l>Thoſe upright men were left durſt hardly ſpeak,</l>
+               <l>Their hearts within them ready were to break</l>
+               <l>To ſee ſuch ſinfull wayes, and unjuſt crimes,</l>
+               <l>As daily acted were in thoſe ſad times.</l>
+               <l>It griev'd their godly ſouls within their breaſt,</l>
+               <l>To ſee ungodly men ſo full poſſeſt</l>
+               <l>VVith wickedneſſe, treading ungodly wayes,</l>
+               <l>And from Gods ſacred truth moſt impure ſtrayes.</l>
+               <l>The Lord of hoſts grown angry with our Sin,</l>
+               <l>D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d with the ſword of Peſtilence begin,</l>
+               <l>To try if that would make us leave our ill,</l>
+               <l>His hand of mercy being with us ſtill.</l>
+               <l>VVhen that would do no good on our hard hearts,</l>
+               <l>He did divide us into ſeverall parts;</l>
+               <l>Thouſand of opinions mongſt us riſe,</l>
+               <l>And we the ſacred truth gin to deſpiſe;</l>
+               <l>Friend againſt Friend, brothers each other hate</l>
+               <l>And nothing but combuſtions in our State.</l>
+               <l>Our ſouls are troubled, being fully bent,</l>
+               <l>Seeking each other for to diſcontent;</l>
+               <l>Malicious thoughts poſſeſſe our evill hearts,</l>
+               <l>And gladly we do laugh, when others ſmarts,</l>
+               <l>Nor can our malice any wayes appeaſe,</l>
+               <l>Untill the cure proves worſe then the diſeaſe.</l>
+               <pb n="3" facs="tcp:171004:6"/>
+               <l> The ſound of Trumpets, and the beat of Drummes,</l>
+               <l>Our onely joy and ſolace now becomes;</l>
+               <l>The ratling armour, and the noiſe of ſwords,</l>
+               <l>Doth louder ſound then do our greateſt words.</l>
+               <l>From words to blowes we fall, then to killing,</l>
+               <l>Not ſparing our deare friends blood from ſpilling.</l>
+               <l>All <hi>Kenton</hi> field as I well witneſſe can</l>
+               <l>Did ſee the death of many a gallant man,</l>
+               <l>And from my heart unfeignedly confeſſe</l>
+               <l>Gods mercies there to me; nor can I leſſe,</l>
+               <l>Then with a gratefull heart hmmbly proteſt</l>
+               <l>The Lord of hoſts me wonderfully bleſt.</l>
+               <l>Beſides in many other diſmall fights,</l>
+               <l>That I have fought in for my countries rights,</l>
+               <l>Againſt all thoſe whoſe evill hearts did hate</l>
+               <l>The good and welfare of this publick ſtate,</l>
+               <l>VVhich heaven preſerve from all that ſeek its ill,</l>
+               <l>And with his hand of mercy keep it ſtill.</l>
+               <l>Amongſt us now are thoſe who do foment,</l>
+               <l>Loving to ſwim in ſtreames of diſcontent:</l>
+               <l>Becauſe they cannot gain their ill deſignes,</l>
+               <l>They are diſturbers in theſe worſt of times.</l>
+               <l>They neither care for God, nor his juſt wayes,</l>
+               <l>If they in Luxury may ſpend their dayes,</l>
+               <l>Or wanton out their time in drinking down</l>
+               <l>Full bowls of wine; and when the ſignes i'th' crown,</l>
+               <l>They rail and fume againſt both Church and State,</l>
+               <l>And all the godly cruelly do hate,</l>
+               <l>Or what's averſe to their moſt unjuſt wills,</l>
+               <l>Inſtead of mending runs to worſer ills.</l>
+               <l>There is another ſort which likewiſe doth</l>
+               <l>Invent new Tenets from the brainy froth</l>
+               <pb n="4" facs="tcp:171004:7"/>
+               <l> Of their inventions, and bring forth</l>
+               <l>A new Religion, but of ſlender worth,</l>
+               <l>Thinking no truth was found in former times</l>
+               <l>But what they now produce, theſe are great crimes;</l>
+               <l>They likewiſe in their mad prophetick fate,</l>
+               <l>Are great diſturbers of a quiet State.</l>
+               <l>God is the God of order, and he will</l>
+               <l>Preſerve true order, in ſpight of their ill;</l>
+               <l>Heavens fabrick doth in a juſt order run,</l>
+               <l>The glorious ſtars, and tranſplendent Sun,</l>
+               <l>The Moon and wandring ſtars that are above,</l>
+               <l>By their Creators order gently move:</l>
+               <l>If order be not both in Church and State,</l>
+               <l>It lively pourtrayes forth an evill fate.</l>
+               <l>Another ſort there is, that for no cauſe</l>
+               <l>Would gladly alter all Religions Lawes.</l>
+               <l>Nothing but what is new they cry is good,</l>
+               <l>And ſuch as theſe are, are to be withſtood.</l>
+               <l>Another ſort there is, within this nation,</l>
+               <l>VVhich fiercely bawles gainſt Reformation,</l>
+               <l>Becauſe it doth reſtrain their perverſe will,</l>
+               <l>And in a godly way outvies their skill:</l>
+               <l>They take it to be a moſt grievous rod,</l>
+               <l>So ſtrictly to obſerve the Law of God,</l>
+               <l>Becauſe it croſſeth their Libertine will,</l>
+               <l>They with the Egyptians would live ſtill;</l>
+               <l>
+                  <hi>Romes</hi> reliques do them ſo deeply poſſeſſe,</l>
+               <l>That truth of Goſpell they cannot digeſt.</l>
+               <l>Another ſort amongſt us now doth dwell,</l>
+               <l>VVho nothing preach but Chriſt, and can you tell</l>
+               <l>The truth of Goſpell, how to lead your life,</l>
+               <l>Yet in their hearts is nothing elſe but ſtrife:</l>
+               <pb n="5" facs="tcp:171004:7"/>
+               <l> Follow their doctrine, let their works alone,</l>
+               <l>For they will bring you to deſtruction:</l>
+               <l>Theſe are the wolves, which in Lambs clothing come,</l>
+               <l>(VVhoſe doctrine's purely good) their vices ſhun,</l>
+               <l>And ſuch as theſe, though they ſeem men of worth,</l>
+               <l>Muſt out of Church and ſtate be ſpued forth.</l>
+               <l>The Canaanites amongſt us yet do dwell,</l>
+               <l>As bad as Locuſts ſprung from deepeſt hell.</l>
+               <l>Moſt cruell ſwearers, ſuch as do profane,</l>
+               <l>And take the glorious name of God in vain.</l>
+               <l>To you that ſit at helm it doth belong</l>
+               <l>To puniſh ſuch who do Gods name thus wrong,</l>
+               <l>And have a care you do it out of hand,</l>
+               <l>Leſt God do caſt you out of Canaans land:</l>
+               <l>And pride in cloathes is grown to great exceſſe</l>
+               <l>In them who chiefly ſhould it moſt ſuppreſſe.</l>
+               <l>The poore and needy not regarded are,</l>
+               <l>Nor for to ask their own they hardly dare,</l>
+               <l>You rich men have a care, think on the grief</l>
+               <l>Of thoſe which are in want, ſend them relief,</l>
+               <l>When as your table's full you little know,</l>
+               <l>That like to want there is no greater wo;</l>
+               <l>All theſe are puniſhments which God hath ſent</l>
+               <l>Amongſt us, and yet we hardly can repent,</l>
+               <l>And let me tell you<g ref="char:punc">▪</g> which you may believe</l>
+               <l>If we do ſtill Gods ſacred ſpirit grieve,</l>
+               <l>And do perſiſt in theſe our ſinfull wayes.</l>
+               <l>More heavy judgements ſhall come in our dayes,</l>
+               <l>That ſword of warre, which God hath in his hand</l>
+               <l>Hath it not been unſheathed in our land?</l>
+               <l>How many ſouls have felt? witneſſe that blood</l>
+               <l>In ſeverall battells flowing like a flood.</l>
+               <pb n="6" facs="tcp:171004:8"/>
+               <l> If we by theſe cannot amend our ill,</l>
+               <l>God in his quiver hath more arrows ſtill,</l>
+               <l>His bow is bent, and if he once more ſhoot,</l>
+               <l>Famine ſhall deſtroy both the branch and root.</l>
+               <l>Though God comes ſlowly with his leaden heele,</l>
+               <l>His iron hands ſhall make the ſtouteſt reel.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>The Authours moſt humble Petiti<g ref="char:EOLhyphen"/>on to the Honourable Houſe of Commons.</head>
+            <opener>
+               <salute>Moſt worthy Senatours,</salute>
+            </opener>
+            <lg>
+               <l>LEt me beſeech you pity my ſad fate,</l>
+               <l>And let your goodneſſe help my poore eſtate.</l>
+               <l>I alwayes faithfull to the State have ſtood,</l>
+               <l>Adventuring many times my deareſt bloud</l>
+               <l>In your moſt juſt defence, nor did I ſeek</l>
+               <l>Mine own advantage, but did fight to keep</l>
+               <l>Your Noble perſons for to ſit in Peace,</l>
+               <l>That truth by your grave wiſdomes might increaſe.</l>
+               <l>Commiſerate my wants, think on my grief,</l>
+               <l>And let your Honours quickly grant relief,</l>
+               <l>And I as bound in duty ever ſhall,</l>
+               <l>For your proſperity to heavens call.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="7" facs="tcp:171004:8"/>
+            <head>POEMS VPON THE SEVERALL Members of the honourable Houſe of Commons, and others.</head>
+            <div type="poem">
+               <head>
+                  <hi>On his Excellencie Sir</hi> THOMAS FAIRFAX, <hi>Capt. Generall of the Parliaments Forces.</hi>
+               </head>
+               <lg>
+                  <l>True nobly valiant, and of courage ſtout,</l>
+                  <l>Have you not put the Kingdomes foes to rout?</l>
+                  <l>Of you it may be ſaid without controule,</l>
+                  <l>Man ne're injoyed a more purer ſoule;</l>
+                  <l>And for your valour, who can paralell,</l>
+                  <l>Sure many may ſurmiſe, but few can tell.</l>
+               </lg>
+               <lg>
+                  <l>Fidelitie with true religion plac't,</l>
+                  <l>Are of ſuch worth, they cannot be diſgrac't;</l>
+                  <l>In theſe 'tis known your honour hath them both,</l>
+                  <l>Religion linckt with vertue is your troth;</l>
+                  <l>For ſure I am, that after ages will</l>
+                  <l>Admire your Feats in Militarie skill,</l>
+                  <l>
+                     <hi>Xerxes</hi> in wiſdome had not halfe your fill.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On</hi> Oliver Cromwell, <hi>Eſquire, Lieutenant Generall, and a Member of the honourable Houſe of Commons.</hi>
+               </head>
+               <lg>
+                  <l>Oft hath your valour in the field bin ſhown,</l>
+                  <l>Loud hath the Trump of fame your merits blown;</l>
+                  <l>In <hi>Winchby</hi> field, and vpon <hi>Marſton</hi> More</l>
+                  <l>Vndauntedly you fought, and kill'd goodſtore:</l>
+                  <l>Eternall bliſſes ſhall for you ſtatues raiſe</l>
+                  <l>Remembrancers to be of your juſt praiſe.</l>
+               </lg>
+               <lg>
+                  <pb n="8" facs="tcp:171004:9"/>
+                  <l>Courage and valour have you in every par<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <l>Religions purities plac'd in your heart;</l>
+                  <l>Only true love unto Gods ſacred word</l>
+                  <l>Made you unſheath your keen well tempred ſword:</l>
+                  <l>What have you left undone for Countries right?</l>
+                  <l>Enforc't you have their enemies to flight,</l>
+                  <l>Leaving a name ſhall live ſo long as light.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On Major Generall</hi> Skippon.</head>
+               <lg>
+                  <l>
+                     <hi>Philip</hi> of <hi>Macedon</hi> was not more ſtout,</l>
+                  <l>How many Battells have you fiercely fought?</l>
+                  <l>In <hi>Cornwall</hi> was your valour bravely ſhown,</l>
+                  <l>Leaving true trophies, to the world well known;</l>
+                  <l>Let <hi>Newb'ries</hi> witneſſe, beſides <hi>Kenton</hi> field,</l>
+                  <l>In which the ſtouteſt you did make to yeild,</l>
+                  <l>Proudly your brandiſh'd ſword you there did weild.</l>
+               </lg>
+               <lg>
+                  <l>Stand firme and ſure, as you have begun,</l>
+                  <l>Keeping truth faſt untill your glaſſe be run:</l>
+                  <l>Invalid merits tends upon all thoſe</l>
+                  <l>Prefers true vertue, hates the publique foes:</l>
+                  <l>Oft have you ventur'd life for Countries cauſe,</l>
+                  <l>Nor have you ſwerv'd from juſtneſſe of the lawes.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On</hi> William Lenthall <hi>Eſquire, Speaker of the Honourable Houſe of Commons.</hi>
+               </head>
+               <lg>
+                  <l>Wiſdome with vertue joyn'd dwells in your breſt,</l>
+                  <l>Inflam'd with zeale to ſeek your Countries reſt:</l>
+                  <l>Learned you are in Lawes concernes this State,</l>
+                  <l>Lending your aide to puniſh all that hate</l>
+                  <l>In their moſt cruell mindes the publique good,</l>
+                  <l>Atteſting againſt thoſe which have withſtood</l>
+                  <l>Maliciouſly to ruine all our good.</l>
+               </lg>
+               <lg>
+                  <pb n="9" facs="tcp:171004:9"/>
+                  <l>Loud let the trump of fame ſound out your praiſe,</l>
+                  <l>Erecting ſtatues, and true trophies raiſe</l>
+                  <l>Never to fade, that your deſerved worth</l>
+                  <l>To after ages clearly may ſhine forth;</l>
+                  <l>Have you not ſpent your time enacting Lawes,</l>
+                  <l>All in defence of Parliamentall cauſe;</l>
+                  <l>Live ſhall your pious name<g ref="char:punc">▪</g> while <hi>England</hi> is<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Leaving a fame ſhall crown your end with bliſſe.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On Sir</hi> Benjamin Rudyard, <hi>Knight, a worthy Member of the honourable Houſe of Commons.</hi>
+               </head>
+               <lg>
+                  <l>Bleſt are you in your juſt and pious wayes,</l>
+                  <l>Envie it ſelfe cannot detract your praiſe;</l>
+                  <l>Nor can the worſt of hate blame your true worth,</l>
+                  <l>Jn ſpight of ill, your vertues ſhines more forth:</l>
+                  <l>All godly men are happy in your good,</l>
+                  <l>More vigour hath it, then the greateſt flood;</l>
+                  <l>In your religious, and pure harmleſſe life,</l>
+                  <l>None can outvie, with all their greateſt ſtrife.</l>
+               </lg>
+               <lg>
+                  <l>Remain a Pillar fixt on <hi>Englands</hi> Land,</l>
+                  <l>Vnblemiſht ſhall your name for ever ſtand:</l>
+                  <l>Deeds of your goodneſſe, and in ſmoother verſe,</l>
+                  <l>You ſhall have writ upon your ſable hearſe;</l>
+                  <l>And af<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er ages ſhall admire your fame</l>
+                  <l>Rightly deſerved, and your ſpotleſſe name</l>
+                  <l>Doth ſpeak the goodneſſe of your pious flame.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On Sir</hi> John Francklin, <hi>Knight; a Member of tbe Honourable Houſe of Commons.</hi>
+               </head>
+               <lg>
+                  <l>Jnſpir'd with vertue, inricht with noble breſt</l>
+                  <l>Of learning, wiſdome, goodneſſe full poſſeſt:</l>
+                  <l>Have you not ſpent much time in taking pain,</l>
+                  <l>Not for your own by-ends, but Countries gain.</l>
+               </lg>
+               <lg>
+                  <pb n="10" facs="tcp:171004:10"/>
+                  <l>Faithfull and truſty to the State you are;</l>
+                  <l>Religious in performing arts moſt rare:</l>
+                  <l>All Souldiers prayers is, that you may bee</l>
+                  <l>Not happy here, but to Eternitie.</l>
+                  <l>Courage (moſt noble ſir) in your brave waies,</l>
+                  <l>Knowing your merits do deſerve great praiſe;</l>
+                  <l>Let envie ſpeak its worſt, ſure you ſhall have</l>
+                  <l>Immortall fame to bring you to your grave,</l>
+                  <l>Nor ſhall the evilleſt tongue your merits wave.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On Sir</hi> Tho. Dacres, <hi>Knight, a Member of the honourable Houſe of Commons.</hi>
+               </head>
+               <lg>
+                  <l>Truſty and faithfull are you to the State,</l>
+                  <l>Have you not ſpent your time to extirpate</l>
+                  <l>Open known vices, and for to expell</l>
+                  <l>Many groſſe errors which amongſt us dwell;</l>
+                  <l>Arming your heart, with power and might,</l>
+                  <l>Sins to demoliſh that ſtop Goſpells light;</l>
+               </lg>
+               <lg>
+                  <l>Deſerving here on earth a ſpotleſſe name,</l>
+                  <l>Apious, zealous, and religious fame?</l>
+                  <l>Courage moſt godly Sir, in your juſt waies</l>
+                  <l>Reward from heaven ſhall crowne your age with praiſe:</l>
+                  <l>Each Souldiers prayers ſure ſhall you have,</l>
+                  <l>So long untill death calls you to your grave.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On Sir</hi> John Trevers, <hi>Knight, a Member of the honourable Houſe of Commons.</hi>
+               </head>
+               <lg>
+                  <l>Jndued with a moſt pure godly mind,</l>
+                  <l>Oft in Gods ſacred book you look to find</l>
+                  <l>How you ſhould lead your life in theſe ſad times,</l>
+                  <l>Now when this worlds beſt things are full of crimes.</l>
+               </lg>
+               <lg>
+                  <pb n="11" facs="tcp:171004:10"/>
+                  <l>True refotmation is your only aime,</l>
+                  <l>Regarding that more then all worldly gaine;</l>
+                  <l>Endeavouring in your moſt pious ſoule</l>
+                  <l>Vertue to cheriſh, all evill to controule,</l>
+                  <l>Erecting trophies of deſerved fame,</l>
+                  <l>Remembrancers to be of your good name.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On Sir</hi> Robert Pye, <hi>Knight, a Member of the honourable Houſe of Commons.</hi>
+               </head>
+               <lg>
+                  <l>Right freely have you ſpent a many daies</l>
+                  <l>On buſineſſe concernes the publique raiſe;</l>
+                  <l>Be ſure you faint not in ſo juſt renown,</l>
+                  <l>Ere long ſuch actions heavens will crown;</l>
+                  <l>Religious acts the pureſt treaſure is,</l>
+                  <l>To bring your ſoule unto eternall bliſſe.</l>
+               </lg>
+               <lg>
+                  <l>Proſperitie is but times fickle wheele</l>
+                  <l>You ſee, whereon great men doe often reele,</l>
+                  <l>Every good act's more durable then ſteele.</l>
+               </lg>
+               <lg>
+                  <l>Though you have loſt much for the publick cauſe,</l>
+                  <l>By ſuch as neither feared God, nor lawes,</l>
+                  <l>Yet have you gain'd a name ſhall laſt for aye,</l>
+                  <l>So long as Moon ſhines, or Sun lights the day.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On Sir</hi> Roger North, <hi>Knight, a Member of the honourable, Houſe of Commons.</hi>
+               </head>
+               <lg>
+                  <l>Rightly upright you have bin in your life,</l>
+                  <l>Of all that knowes you, you are free from ſtrife,</l>
+                  <l>Giving rare examples to all thoſe that will</l>
+                  <l>Encline their hearts to good, as you do ſtill,</l>
+                  <l>Refraining wayes that may incline to ill.</l>
+               </lg>
+               <lg>
+                  <pb n="12" facs="tcp:171004:11"/>
+                  <l>Nor have you ſpar'd to ſpend your beſt of paines</l>
+                  <l>On others not ſeeking your own private gaines.</l>
+                  <l>Reward that's juſt ſhall keep you from diſdains,</l>
+                  <l>Truſty have you continued to the State:</l>
+                  <l>Heaven for that will proſper your eſtate.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On Sir</hi> Francis Pile <hi>Knight a Member of the Honou<g ref="char:EOLhyphen"/>rable Houſe of Commons,</hi>
+               </head>
+               <lg>
+                  <l>Faithfull unto your country have you alwayes been</l>
+                  <l>Rebuking thoſe who wallow'd in their ſin.</l>
+                  <l>All good men love you, and admire your worth,</l>
+                  <l>Nor can the ableſt men your praiſe ſet forth,</l>
+                  <l>Contentment to do good, the ſtream in which you ſwim</l>
+                  <l>Inſpir<g ref="char:punc">▪</g>d with goodneſſe which your ſins controul</l>
+                  <l>Shall make you happy when your bell doth toll.</l>
+               </lg>
+               <lg>
+                  <l>Piety adornes your moſt godly mind,</l>
+                  <l>In your juſt wayes you will true comfort find;</l>
+                  <l>Leave not to proſecute ſuch pious wayes,</l>
+                  <l>Eternall bliſſe ſhall crown your head with praiſe.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On my Honoured Collonell</hi> Henry Martin, <hi>a Member Of the Honourable Houſe of Commons.</hi>
+               </head>
+               <lg>
+                  <l>Heroick ſpirit of Heroick blood,</l>
+                  <l>Ever ſpending your ſelf for countries good,</l>
+                  <l>Never but ſtriving with all force and might.</l>
+                  <l>Religions purity to bring to light.</l>
+                  <l>Your fame for ſuch good deeds will ſhine more bright</l>
+               </lg>
+               <lg>
+                  <pb n="13" facs="tcp:171004:11"/>
+                  <l>May you live happy in a pious life,</l>
+                  <l>And may your ſoul be ever free from ſtrife,</l>
+                  <l>Reſting aſſured your good God ſhall ſend</l>
+                  <l>Truth to wait on you to your latter end,</l>
+                  <l>In ſpight of envy, you ſhall have a ſtory,</l>
+                  <l>Not writ by mortall pen, but crown'd with glory.</l>
+               </lg>
+               <lg>
+                  <head>Ad eundem.</head>
+                  <l>Help noble Collonel, for want I faint,</l>
+                  <l>Encline your eares unto my ſad complaint,</l>
+                  <l>Nor let me periſh now for want of food.</l>
+                  <l>Retarded pity is but ſeldome good</l>
+                  <l>Your favours heretofore hath that withſtood</l>
+               </lg>
+               <lg>
+                  <l>May you be pleaſed out of pious love</l>
+                  <l>Arrears ſo due to us, the Houſe to move,</l>
+                  <l>Remembring them how many poore ſtarv'd ſoule</l>
+                  <l>To hunger deſtin'd is without controll,</l>
+                  <l>Except ſome monies ſpeedily we have;</l>
+                  <l>Nor can we live much longer from a grave.</l>
+                  <l>No man ſo happy doth enjoy that fate</l>
+                  <l>But gaines from one or other perfect hate.</l>
+                  <l>I dare be bold to write without controll,</l>
+                  <l>If ſuch there be, they are not made of mold,</l>
+                  <l>Go on and proſper in your pious wayes</l>
+                  <l>Regard not ill men, good men give you praiſe.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On my honoured friend Captain</hi> Thomas Wogan <hi>a member of the Honorable Houſe of Commons.</hi>
+               </head>
+               <lg>
+                  <l>Times nee'r produced a more valiant man,</l>
+                  <l>Heroick acts that own you, witneſſe can,</l>
+                  <l>Oft in the field your valour hath been ſhown</l>
+                  <l>Mongſt thickeſt of your enemies well known,</l>
+                  <l>As witneſſe <hi>Edge-hill,</hi> where with force and might</l>
+                  <l>Stoutly you kept your ſtandard in that fight.</l>
+               </lg>
+               <lg>
+                  <pb n="14" facs="tcp:171004:12"/>
+                  <l>When you left warres, then did your noble fate</l>
+                  <l>Ordain a place for you in publick State.</l>
+                  <l>Goodneſſe with vertue in you is combin'd,</l>
+                  <l>Agallant ſpirit, and a pious mind,</l>
+                  <l>Nor are you any wayes to vice inclin'd.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On Sir</hi> VValter Earl, <hi>a Member of the Honourable Houſe of Commons.</hi>
+               </head>
+               <lg>
+                  <l>When as in armes this Kingdome firſt did riſe,</l>
+                  <l>Aſſuredly you highly then did priſe</l>
+                  <l>Liberties freedome, and with force withſtood</l>
+                  <l>T'oppoſe the hurters of your countries good,</l>
+                  <l>Ev'n with the hazard of your deareſt blood;</l>
+                  <l>Re<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dring to the world, that you were truly good.</l>
+               </lg>
+               <lg>
+                  <l>Expect that when you have ſpun out your dayes,</l>
+                  <l>
+                     <hi>A</hi> Trophy ſhall be rear'd of your juſt praiſe.</l>
+                  <l>Religious zeal flames in your pious breaſt,</l>
+                  <l>Love to your maker hath your heart poſſeſt.</l>
+                  <l>Eternall bliſſe ſhall bring your ſoul to reſt.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On</hi> Thomas Earl <hi>Eſquire, a Member of the Honoura<g ref="char:EOLhyphen"/>ble Houſe of Commons.</hi>
+               </head>
+               <lg>
+                  <l>True happy, ſon unto a pious father,</l>
+                  <l>How little wealth eſteeming, chuſing rather</l>
+                  <l>Of all men to be loved, then to gain</l>
+                  <l>Much worldly treaſure, counting that but vain</l>
+                  <l>Amongſt the godly ſhall be writ your ſtorie,</l>
+                  <l>SStanding forever to your endleſſe glory</l>
+               </lg>
+               <lg>
+                  <l>Eternall merit ſhall wait on your ſoul</l>
+                  <l>And pious ſtatues raiſe without controull,</l>
+                  <l>Reſtoring memory to your good name,</l>
+                  <l>Lending more ſmoother verſes, mine's but lame,</l>
+                  <l>Eternall bliſſe ſhall crown your worth with fame.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="15" facs="tcp:171004:12"/>
+               <head>
+                  <hi>On Collonell</hi> William Purefoy, <hi>a Member of the Ho<g ref="char:EOLhyphen"/>nourable Houſe of Commons.</hi>
+               </head>
+               <lg>
+                  <l>When as this Kingdome firſt aſunder rent,</l>
+                  <l>In men whoſe hearts were fil'd with diſcontent,</l>
+                  <l>Little regarding God, or his juſt Lawes</l>
+                  <l>Loving their ſelf ends more then publick cauſe;</l>
+                  <l>In that ſame hint of time did you begin,</l>
+                  <l>Amongſt the firſt for to extirpate Sinne.</l>
+                  <l>Much good hereafter will you find therein.</l>
+               </lg>
+               <lg>
+                  <l>Perplexed thoughts poſſeſſed many hearts,</l>
+                  <l>Vntill we were divided into parts;</l>
+                  <l>Religion then was made a laughing ſtock,</l>
+                  <l>Even to the good became a ſtumbling block.</l>
+                  <l>Faithfull to Church and State did you remain,</l>
+                  <l>Oft venturing your life for both the ſame,</l>
+                  <l>You have by that gain'd a ne'r dying fame.</l>
+               </lg>
+               <lg>
+                  <head>Purefoy Pure faith.</head>
+                  <l>You have a faithfull piller firmly ſtood</l>
+                  <l>(In acting, doing, for the countries good)</l>
+                  <l>On which we will a pious altar raiſe,</l>
+                  <l>To burn the incenſe of your purer praiſe.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On Maſter</hi> Michael Oldſworth <hi>Eſquire, a member of the Honourable Houſe of Commons.</hi>
+               </head>
+               <lg>
+                  <l>May you live happy, in a harmleſſe fate,</l>
+                  <l>In hating thoſe that do oppoſe the State.</l>
+                  <l>Carefull and truſtie in the publick cauſe,</l>
+                  <l>Have you not ſtriven to maintain our Lawes?</l>
+                  <l>Admired vertue ſprings within your breaſt,</l>
+                  <l>Eternall bliſſe ſhall bring you to your reſt.</l>
+                  <l>Let envy ſpeak its worſt in ſpire of fead,</l>
+                  <l>Live ſhall your famous acts, when you are dead.</l>
+               </lg>
+               <lg>
+                  <pb n="16" facs="tcp:171004:13"/>
+                  <l>Oh you have gain'd a never dying name.</l>
+                  <l>Loving Religion more then mundane gain,</l>
+                  <l>Drawing your actions in ſo juſt a line</l>
+                  <l>Surely few have outvi'd you in your time.</l>
+                  <l>When fatall death ſhall ſeiſe your harmles heart,</l>
+                  <l>Oh we ſhall weep ſad teares for your depart;</l>
+                  <l>Rejoycing yet, that you have left behind</l>
+                  <l>Triumphant trophies of a godly mind,</l>
+                  <l>How many men have ſought, but few could find?</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On Maſter</hi> Tanfield Vachell <hi>Eſquire, a member of the Honourable Houſe of Commons.</hi>
+               </head>
+               <lg>
+                  <l>True pious wiſdome, juſtly in you ſhown</l>
+                  <l>Amongſt all thoſe wh<hi rend="sup">ch</hi> of your worth have known</l>
+                  <l>Nor can the worſt of envy ſpeak you ill,</l>
+                  <l>Faithfull unto the State, you have proved ſtill,</l>
+                  <l>Endeavouring with all your force and might,</l>
+                  <l>In acting things that are both juſt and right,</l>
+                  <l>Labouring with zeal, and ſtriving againſt thoſe</l>
+                  <l>Durſt any wayes the Parliament oppoſe.</l>
+               </lg>
+               <lg>
+                  <l>Vertues true tincture, doth adorn your mind,</l>
+                  <l>And few ſuch good men in our time we find.</l>
+                  <l>Created goodneſſe ſprings within your breaſt</l>
+                  <l>Heavens ſhall receive your bleſſed ſoul to reſt.</l>
+                  <l>Eternall merit ſhall your praiſe ſet forth,</l>
+                  <l>Leaving true trophies of your noble worth.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On my honoured Collonell Sir</hi> John Gell Knight.</head>
+               <lg>
+                  <l>Inſpir'd with virtue, inricht with noble breaſt</l>
+                  <l>Of courage, valour, goodneſſe full poſſeſt,</l>
+                  <l>Having drawn your ſword, and hath uſ'd the ſame,</l>
+                  <l>Not for your own by ends, but countries gain.</l>
+               </lg>
+               <lg>
+                  <pb n="17" facs="tcp:171004:13"/>
+                  <l>Giving a reall teſte that you wood,</l>
+                  <l>Even ſpend your deareſt life for <hi>Englands</hi> good.</l>
+                  <l>Let envy ſpeak it's worſt in ſpite of fraud,</l>
+                  <l>Live ſhall your famous acts, when you are dead.</l>
+               </lg>
+               <lg>
+                  <l>Accept theſe lines, ſprung from that harmleſse breaſt</l>
+                  <l>Your true devoted ſervant e'r ſhall reſt,</l>
+                  <l>VVere not his Muſe with froward fate caſt down,</l>
+                  <l>In ſmoother lines ſhe would chant your renown,</l>
+                  <l>Yet whilſt ſhe lives, ſhall evermore ſet forth,</l>
+                  <l>Your deſerved merits, and heroick worth.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On my Honoured Capt. Sir</hi> George Greſley, <hi>Knight.</hi>
+               </head>
+               <lg>
+                  <l>Gracious and good, are attributes belongs</l>
+                  <l>Enobled ſpirits free from harm or wrongs;</l>
+                  <l>Oh theſe muſt needs derive a birth from you</l>
+                  <l>Rightly, for they are your juſt proper due.</l>
+                  <l>Go on moſt worthy Sir, in your brave wayes,</l>
+                  <l>Eternall praiſe ſhall crown your age with baies.</l>
+               </lg>
+               <lg>
+                  <l>Giuing more verdure then the Spring gives flow<g ref="char:EOLhyphen"/>ers,</l>
+                  <l>Refreſhing memory, and when ſad houres</l>
+                  <l>Enlarge themſelves upon your ſable herſe,</l>
+                  <l>Sending forth ſighes inſtead of ſmoother verſe,</l>
+                  <l>Live ſhall your pious acts while time remains,</l>
+                  <l>Eternall bliſse ſhall be your finall gains.</l>
+                  <l>Your name lives ſpotleſſe from all blots or ſtains.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On the truly noble, Sir</hi> John Davers <hi>Knight, a Mem<g ref="char:EOLhyphen"/>ber of the Honourable Houſe of Commons.</hi>
+               </head>
+               <lg>
+                  <l>Inſpir'd with valour, enricht with vertues breaſt,</l>
+                  <l>Of learning, courage, goodneſse full poſseſt.</l>
+                  <l>Have you not ſpent your ſelf in taking pain?</l>
+                  <l>Not for your own by ends, but Countries fame.</l>
+               </lg>
+               <lg>
+                  <pb n="18" facs="tcp:171004:14"/>
+                  <l>Doing and acting all for publick good</l>
+                  <l>And firmly to the ſtate y' ave alwayes ſtood,</l>
+                  <l>Vertues tresnoble orb ſprings in your brain,</l>
+                  <l>Engraving trophies to your worthy fame,</l>
+                  <l>Rendring you happy, and in ſtead of bayes,</l>
+                  <l>Surely you'l gain immortall wreaths of praiſe.</l>
+                  <l>Your pious valour an unfeigned worth.</l>
+                  <l>An abler pen then mine cannot ſet forth.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On my much honoured friend Maſter</hi> Ephraim Thorn <hi>Merchant.</hi>
+               </head>
+               <lg>
+                  <l>Eternall merit waits upon all thoſe,</l>
+                  <l>Preferres true vertues lore before vain Oathes.</l>
+                  <l>Have you not in your pious lives ſet forth,</l>
+                  <l>Religion in its true eſteem and worth.</l>
+                  <l>Amongſt many men of you it may be writ</l>
+                  <l>In golden letters faln from pureſt wit,</l>
+                  <l>More juſt deſert by man was ne're gain'd yet.</l>
+               </lg>
+               <lg>
+                  <l>Truſty and faithfull are you to your friend,</l>
+                  <l>Heavens for that will crown you in the end</l>
+                  <l>Oh that my muſe were able to ſet forth,</l>
+                  <l>Rightly your noble acts, and reall worth,</l>
+                  <l>Nor need you care for beſt of Poets praiſe,</l>
+                  <l>Eternall bliſſe ſhall crown your head with bayes.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On</hi> George Manley, <hi>Eſquire.</hi>
+               </head>
+               <lg>
+                  <l>Greatneſſe with goodneſſe properly belongs</l>
+                  <l>Enobled ſpirits free from harm or wrongs.</l>
+                  <l>Oft for your doing good y'ave gained loſſe,</l>
+                  <l>Regarding juſtice more then earthly droſſe.</l>
+                  <l>Giving a reall teſte that you wood,</l>
+                  <l>Even ſpend your deareſt life for countries good.</l>
+               </lg>
+               <lg>
+                  <pb n="19" facs="tcp:171004:14"/>
+                  <l>May you much proſper in your pious wayes,</l>
+                  <l>Amongſt good men you ſhall receive much praiſe</l>
+                  <l>Nor need you care for idle envious<g ref="char:punc">▪</g> elves,</l>
+                  <l>Let them have rope, they'l quickly hang themſelves.</l>
+                  <l>Enlivening verſe ſhal for you ſtatues raiſe;</l>
+                  <l>You ſhall enjoy a never dying praiſe.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>
+                  <hi>On my much honoured friend, Captain</hi> Richard Owen.</head>
+               <lg>
+                  <l>Reſtor'd you have that moſt renowned name,</l>
+                  <l>
+                     <hi>In Wales,</hi> of ſo brave, and ſo auntique fame.</l>
+                  <l>Created manhood dwells in your noble breaſt.</l>
+                  <l>Have you not done much for your countries reſt?</l>
+                  <l>Actions moſt gallant hath by you been known,</l>
+                  <l>Redoubled courage from your arm hath flown,</l>
+                  <l>Did but your valour need for to be ſhown.</l>
+               </lg>
+               <lg>
+                  <l>Oft hath your worth been tri'd in many a field.</l>
+                  <l>Where you have made the ſtouteſt for to yield.</l>
+                  <l>Eternall merit ſhall your ſtatues raiſe.</l>
+                  <l>Nor after death ſhall end your deſerv'd praiſe.</l>
+               </lg>
+               <lg>
+                  <l>Your wiſdome valour, and heroick worth,</l>
+                  <l>An abler pen, then mine cannot ſet forth.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="20" facs="tcp:171004:15" rendition="simple:additions"/>
+               <head>
+                  <hi>On my honoured kinſman,</hi> John VVaſtell <hi>eſquire a Member of the Honourable Houſe of Commons.</hi>
+               </head>
+               <lg>
+                  <l>Juſtice with wiſdome joyn'd, ſprings in your mind,</l>
+                  <l>Of a pure judgement, and a wit refin'd.</l>
+                  <l>Have you not pleaded oft? the poore mans cauſe,</l>
+                  <l>Nor left you them toth' rigour of the Lawes,</l>
+               </lg>
+               <lg>
+                  <l>When warres, and jarres did firſt amongſt us riſe,</l>
+                  <l>All ſuch fomentors you did them deſpiſe.</l>
+                  <l>Stoutly you ſtood up for the publick good,</l>
+                  <l>To puniſh ſuch as liberty withſtood.</l>
+                  <l>Eternall bliſſe from heavens ſhall you crown</l>
+                  <l>Leaving true emblemes of your juſt renown.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:171004:15"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
